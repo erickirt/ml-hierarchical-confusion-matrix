@@ -199,10 +199,6 @@ Lint & Fix:
 yarn lint
 ```
 
-## Contributing
-
-When making contributions, refer to the [`CONTRIBUTING`](CONTRIBUTING.md) guidelines and read the [`CODE OF CONDUCT`](CODE_OF_CONDUCT.md).
-
 ## BibTeX
 
 To cite our paper, please use:
